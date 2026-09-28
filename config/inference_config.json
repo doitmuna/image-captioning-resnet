@@ -1,0 +1,16 @@
+{
+  "model": "ResNet-18-style encoder + LSTM decoder",
+  "feature_size": 512,
+  "embedding_size": 256,
+  "hidden_size": 512,
+  "vocab_size": 2541,
+  "image_size": 224,
+  "max_caption_length": 40,
+  "decoding": "greedy",
+  "special_tokens": {
+    "start": "<START>",
+    "end": "<END>",
+    "pad": "<PAD>",
+    "unk": "<UNK>"
+  }
+}
