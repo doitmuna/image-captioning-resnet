@@ -1,3 +1,6 @@
+## Live Demo
+
+[🚀 Try the Streamlit Demo](https://image-captioning-resnet-odolvra5bkmyxzej2wffes.streamlit.app)
 # Neural Image Captioning
 
 A from-scratch image captioning system using a custom ResNet-18-style CNN encoder and an LSTM-based caption decoder trained on Flickr8k.
